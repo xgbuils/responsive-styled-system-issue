@@ -1,0 +1,23 @@
+{
+  "name": "styled-system-responsive-5.1.5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "storybook": "start-storybook"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "@storybook/react": "^5.3.19",
+    "babel-loader": "^8.1.0"
+  },
+  "dependencies": {
+    "@emotion/styled": "^10.0.27",
+    "emotion-theming": "^10.0.27",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-system": "^4.2.4"
+  }
+}
